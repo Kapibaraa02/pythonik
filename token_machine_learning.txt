@@ -1,0 +1,6 @@
+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
+
+git clone (https z github)
+ls 
+cd (nawa_folderu)
+git pull origin main
