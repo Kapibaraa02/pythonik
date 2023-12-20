@@ -4,3 +4,8 @@ git clone (https z github)
 ls 
 cd (nawa_folderu)
 git pull origin main
+
+cd - wejscie do folderu
+git pull origin- zgrywa z serwera najnowsza werjse kodu (tak jakby z tego co jest na github)
+$ git config --global user.name "Kacper Kasprzyk"
+$ git config --global user.email "kacper.kasprzyk02@gmail.com"
